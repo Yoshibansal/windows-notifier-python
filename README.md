@@ -2,5 +2,5 @@
 
 ### RUN
     - python main.py
-    OR
+            OR
     - pythonw.exe ./main.py
