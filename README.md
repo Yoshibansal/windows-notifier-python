@@ -1,5 +1,6 @@
 # windows-notifier-python
 
-python main.py
-or
-pythonw.exe ./main.py
+### RUN
+    - python main.py
+    OR
+    - pythonw.exe ./main.py
